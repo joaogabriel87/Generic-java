@@ -1,4 +1,4 @@
-package CompletatableFuture;
+package Threads.CompletatableFuture;
 
 import java.util.Arrays;
 import java.util.List;
@@ -8,7 +8,7 @@ import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
 import java.util.stream.Collectors;
 
-import static CompletatableFuture.PedidosCompletableFuture.processarPedidoAsync;
+import static Threads.CompletatableFuture.PedidosCompletableFuture.processarPedidoAsync;
 
 public class main {
     public static void main(String[] args) {

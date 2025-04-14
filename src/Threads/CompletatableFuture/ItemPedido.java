@@ -1,4 +1,4 @@
-package CompletatableFuture;
+package Threads.CompletatableFuture;
 
 public class ItemPedido {
     private final int produtoId;

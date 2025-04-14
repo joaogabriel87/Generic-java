@@ -1,4 +1,4 @@
-package CompletatableFuture;
+package Threads.CompletatableFuture;
 
 import java.util.List;
 
